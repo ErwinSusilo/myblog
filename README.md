@@ -1,2 +1,4 @@
-# myblog
-I want to post my activity in here
+# blog saya
+Saya ingin memposting aktivitas saya di sini
+<!docktype_html>
+
